@@ -1,0 +1,37 @@
+
+.open-sans-normal {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  /*primary */
+  .dark-2{
+    color:#474747;
+  }
+  nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 50px 100px;
+  }
+.text-style{
+    font-size: 50px;
+    font-weight: bold;
+  }
+.t-color{
+      color: orangered;
+  }
+nav ul li{
+    list-style:none;
+}
+ul li a{
+    text-decoration: none;
+    margin-right: 50px;
+    
+}
+.nav ul{
+    display: flex;
+    
+}
